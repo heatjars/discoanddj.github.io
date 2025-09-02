@@ -1,0 +1,37 @@
+body {
+  background-image:url('132.png');
+  margin:0px;
+}
+h1{
+  font-family:cursive;
+}
+.subject {
+      background: #aaaaaaf0;
+      border: solid gray 2px;
+      border-left: none;
+      border-top: none;
+      margin: 2em;
+      padding: 1em;
+      text-align: center;
+      font-family: Times;
+}
+.main {
+    border:28px solid transparent;
+    border-image: url(dddetborder.gif) 64 round;
+    padding-top:1em;
+}
+.dD {
+    max-width: 10em;
+    margin: auto;
+    display: block;
+}
+.ib:hover {
+    background:gray;
+    cursor:pointer;
+}
+.ib {
+    border-bottom: solid #6a6a6a 4px;
+    border-right: solid gray 4px;
+    margin: 0em 0.5em;
+    background: #ffffffab;
+}
